@@ -1,0 +1,7 @@
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CarInsuranceQualification\CarInsuranceQualification\bin\Debug\CarInsuranceQualification.exe.config
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CarInsuranceQualification\CarInsuranceQualification\bin\Debug\CarInsuranceQualification.exe
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CarInsuranceQualification\CarInsuranceQualification\bin\Debug\CarInsuranceQualification.pdb
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CarInsuranceQualification\CarInsuranceQualification\obj\Debug\CarInsuranceQualification.csproj.AssemblyReference.cache
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CarInsuranceQualification\CarInsuranceQualification\obj\Debug\CarInsuranceQualification.csproj.CoreCompileInputs.cache
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CarInsuranceQualification\CarInsuranceQualification\obj\Debug\CarInsuranceQualification.exe
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CarInsuranceQualification\CarInsuranceQualification\obj\Debug\CarInsuranceQualification.pdb
