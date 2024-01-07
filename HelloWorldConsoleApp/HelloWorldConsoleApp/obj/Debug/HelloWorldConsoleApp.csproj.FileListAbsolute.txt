@@ -1,0 +1,7 @@
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe.config
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.pdb
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.AssemblyReference.cache
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.exe
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.pdb
