@@ -1,0 +1,7 @@
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\WhileLoopApp\WhileLoopApp\bin\Debug\WhileLoopApp.exe.config
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\WhileLoopApp\WhileLoopApp\bin\Debug\WhileLoopApp.exe
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\WhileLoopApp\WhileLoopApp\bin\Debug\WhileLoopApp.pdb
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\WhileLoopApp\WhileLoopApp\obj\Debug\WhileLoopApp.csproj.AssemblyReference.cache
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\WhileLoopApp\WhileLoopApp\obj\Debug\WhileLoopApp.csproj.CoreCompileInputs.cache
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\WhileLoopApp\WhileLoopApp\obj\Debug\WhileLoopApp.exe
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\WhileLoopApp\WhileLoopApp\obj\Debug\WhileLoopApp.pdb
