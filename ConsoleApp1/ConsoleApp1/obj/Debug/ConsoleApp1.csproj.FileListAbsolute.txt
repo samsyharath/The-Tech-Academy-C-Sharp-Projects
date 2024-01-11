@@ -1,0 +1,7 @@
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
