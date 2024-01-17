@@ -1,0 +1,7 @@
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathOperationOptional\MathOperationOptional\bin\Debug\MathOperationOptional.exe.config
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathOperationOptional\MathOperationOptional\bin\Debug\MathOperationOptional.exe
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathOperationOptional\MathOperationOptional\bin\Debug\MathOperationOptional.pdb
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathOperationOptional\MathOperationOptional\obj\Debug\MathOperationOptional.csproj.AssemblyReference.cache
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathOperationOptional\MathOperationOptional\obj\Debug\MathOperationOptional.csproj.CoreCompileInputs.cache
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathOperationOptional\MathOperationOptional\obj\Debug\MathOperationOptional.exe
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathOperationOptional\MathOperationOptional\obj\Debug\MathOperationOptional.pdb
