@@ -1,0 +1,7 @@
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathMethods\MathMethods\bin\Debug\MathMethods.exe.config
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathMethods\MathMethods\bin\Debug\MathMethods.exe
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathMethods\MathMethods\bin\Debug\MathMethods.pdb
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathMethods\MathMethods\obj\Debug\MathMethods.csproj.AssemblyReference.cache
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathMethods\MathMethods\obj\Debug\MathMethods.csproj.CoreCompileInputs.cache
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathMethods\MathMethods\obj\Debug\MathMethods.exe
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\MathMethods\MathMethods\obj\Debug\MathMethods.pdb
