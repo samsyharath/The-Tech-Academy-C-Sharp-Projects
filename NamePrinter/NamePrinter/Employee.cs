@@ -6,9 +6,13 @@ using System.Threading.Tasks;
 
 namespace NamePrinter
 {
-    class Employee : Person
+    class Employee : Person, IQuittable
     {
         public int Id { get; set; }
+        public void Quit()
+        {
+            Console.WriteLine("Quit");
+        }
 
     }
 }
