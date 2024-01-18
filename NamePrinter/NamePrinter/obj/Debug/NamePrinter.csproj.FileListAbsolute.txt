@@ -1,0 +1,7 @@
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\NamePrinter\NamePrinter\bin\Debug\NamePrinter.exe.config
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\NamePrinter\NamePrinter\bin\Debug\NamePrinter.exe
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\NamePrinter\NamePrinter\bin\Debug\NamePrinter.pdb
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\NamePrinter\NamePrinter\obj\Debug\NamePrinter.csproj.AssemblyReference.cache
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\NamePrinter\NamePrinter\obj\Debug\NamePrinter.csproj.CoreCompileInputs.cache
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\NamePrinter\NamePrinter\obj\Debug\NamePrinter.exe
+C:\Users\samso\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\NamePrinter\NamePrinter\obj\Debug\NamePrinter.pdb
